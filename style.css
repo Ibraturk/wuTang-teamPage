@@ -75,54 +75,67 @@ html{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+
 }
 .ol-dirty-bastard {
     background-image: url('./assets/odb.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin-top: 60px;
 }
 .raekwon {
     background-image: url('./assets/raekwon.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin-top: 10px;
+
 }
 .gza {
     background-image: url('./assets/Gza.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin-top: 60px;
+
 }
 .rza{
     background-image: url('./assets/Rza.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin-top: 10px;
 }
 .ghostface-killa{
     background-image: url('./assets/ghostface-killa.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin-top: 60px;
+
 }
 .inspectah-deck{
     background-image: url('./assets/inspectah-deck.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin-top: 10px;
 } 
 .u-god{
     background-image: url('./assets/u-god.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin-top: 60px;
+
 }
 .masta-killa{
     background-image: url('./assets/masta-killa.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin-top: 10px;
 }
 .card-info-container h3{
     width: 100%;
