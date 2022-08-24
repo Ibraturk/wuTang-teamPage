@@ -55,39 +55,74 @@ html{
 .main-cards-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    margin-bottom: 60px;
     margin-left: 19px;
-    gap: 27px
 }
 .card-info-container {
-    position: relative;
     width: 100%;
     min-width: 156px;
     max-width: 264px;
     height: auto;
 }
 .card-info-container .wu-member{
+    display: flex;
+    justify-content: flex-end;
     width: 90%;
     height: 208px;
 }
 .method-man {
     background-image: url('./assets/method-man.jpg');
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
 }
 .ol-dirty-bastard {
     background-image: url('./assets/odb.jpg');
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
 }
 .raekwon {
     background-image: url('./assets/raekwon.jpg');
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
 }
 .gza {
     background-image: url('./assets/Gza.jpg');
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
+}
+.rza{
+    background-image: url('./assets/Rza.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ghostface-killa{
+    background-image: url('./assets/ghostface-killa.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.inspectah-deck{
+    background-image: url('./assets/inspectah-deck.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} 
+.u-god{
+    background-image: url('./assets/u-god.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.masta-killa{
+    background-image: url('./assets/masta-killa.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 .card-info-container h3{
     width: 100%;
@@ -98,23 +133,20 @@ html{
     line-height: 2.1rem;
     letter-spacing: 0em;
 }
-.card-info-container p{
-    position: absolute;
-    width: 200px;
-    height: auto;
-    top: 43px;
-    left: 102px;
+.wu-member p{
+    width: 30px;
+    height: 30px;
+    margin-right: -13px;
     font-size: 1.3rem;
     font-weight: 400;
     line-height: 1.3rem;
     letter-spacing: 0em;
-    -webkit-transform: rotate(90deg); 
-    -moz-transform: rotate(90deg);
+    transform: rotate(90deg);
 
 }
 footer{
     width: 100%;
-    height: 80px;
+    height: auto;
     margin-bottom: 24px;
 }
 .footer-text-container{
