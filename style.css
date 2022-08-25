@@ -32,10 +32,10 @@ html{
     width: 100%;
     height: auto;
     margin-bottom: 38px;
-    font-family: 'PT Serif', serif;
-    font-size: 3.6rem;
+    font-family: 'Aboreto', cursive;
+    font-size: 5.6rem;
     font-weight: bold;
-    line-height: 4.7rem;
+    line-height: 6.7rem;
 }
 .main-title-container h2 {
     width: 100%;
@@ -57,6 +57,7 @@ html{
     grid-template-columns: 1fr 1fr;
     margin-bottom: 60px;
     margin-left: 19px;
+
 }
 .card-info-container {
     width: 100%;
@@ -68,7 +69,8 @@ html{
     display: flex;
     justify-content: flex-end;
     width: 90%;
-    height: 208px;
+    height: 284px;
+
 }
 .method-man {
     background-image: url('./assets/method-man.jpg');

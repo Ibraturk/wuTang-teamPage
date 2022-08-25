@@ -2,9 +2,41 @@
     display: flex;
     flex-direction: row;
 }
+.main-title-container p {
+    max-width: 1300px;
+}
 .main-cards-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     margin-bottom: 60px;
     margin-left: 19px;
+}
+
+.ol-dirty-bastard {
+    margin-top: 60px;
+}
+.raekwon {
+    margin-top: 0px;
+
+}
+.gza {
+    margin-top: 0px;
+
+}
+.rza{
+    margin-top: 60px;
+}
+.ghostface-killa{
+    margin-top: 0px;
+
+}
+.inspectah-deck{
+    margin-top: 0px;
+} 
+.u-god{
+    margin-top: 60px;
+
+}
+.masta-killa{
+    margin-top: 0px;
 }
