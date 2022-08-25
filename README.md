@@ -1,6 +1,6 @@
-<!-- Please update value in the {}  -->
 
-<h1 align="center">{WU- TANG CLAN - TEAM PAGE}</h1>
+
+<h1 align="center">WU- TANG CLAN - TEAM PAGE</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="https://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/Ibraturk/wuTang-teamPage/settings/pages">
+    <a href="https://ibraturk.github.io/wuTang-teamPage/">
       Demo
     </a>
     <span> | </span>
@@ -30,46 +30,25 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+<img width="751" alt="Captura de pantalla 2022-08-24 a la(s) 22 48 01" src="https://user-images.githubusercontent.com/83618278/186556752-21ee0ddd-af25-43f6-a6f7-3b1b1f398b92.png">
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+In this page i used flexbox and grid to manipulate some of the blocks, First i started with the text section then pass to the team cards, i applied flex to posisionated the alternative text side the photo. I did this challenge thinking in do reutilizable components like the footer in this case.
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+HTML + CSS
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
 ## Contact
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@ibraturk](https://github.com/Ibraturk)
+- Twitter [@ibragragirena](https://twitter.com/IbraGragirena)
